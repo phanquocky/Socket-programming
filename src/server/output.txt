@@ -1,0 +1,12 @@
+SUCCESS: The process "chrome.exe" with PID 14360 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 8856 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 11048 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 10952 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 5164 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 17452 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 9804 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 18088 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 13496 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 16080 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 884 has been terminated.
+SUCCESS: The process "chrome.exe" with PID 15804 has been terminated.
